@@ -1,4 +1,4 @@
-package com.brainbg.zxingxpress;
+package com.brainbg.xpresszxing;
 
 import android.Manifest;
 import android.content.Context;

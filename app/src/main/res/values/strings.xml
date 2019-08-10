@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name_main" tools:ignore="MissingTranslation">ZxingXpress</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name_main">XpressZXing</string>
 
 </resources>
